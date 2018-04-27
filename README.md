@@ -11,6 +11,9 @@ Pretenderá ainda estar integrado ao App Center, a fim de rastrear bugs.
 # Status
 
 App no Xamarin: Em progresso
+
 API: Em progresso
+
 Configuração no Firebase: Em progresso
+
 Configuração no App Center: Em progresso
